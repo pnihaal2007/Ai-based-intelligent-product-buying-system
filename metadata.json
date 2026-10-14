@@ -1,0 +1,6 @@
+{
+  "name": "AI-Based Intelligent Product Buying Decision System",
+  "description": "AI-powered product recommendations, budget analysis, worth-it evaluation, and cross-platform buying comparisons with DWDM analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
